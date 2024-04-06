@@ -1,4 +1,4 @@
-const http = reqeuire("http")
+const http = require("http")
 const port = 3000 
 
 
